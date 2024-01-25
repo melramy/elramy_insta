@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368140666306",
+    "project_id": "elramyinstaa",
+    "storage_bucket": "elramyinstaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368140666306:android:310ef7246d499015fdc25b",
+        "android_client_info": {
+          "package_name": "com.example.instagram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368140666306-k34bft7n6tl9lbd4k074pp6mfb5gakfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1kr6JDFoBOSQN_9sbGW1Dy4FQXLi91A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368140666306-k34bft7n6tl9lbd4k074pp6mfb5gakfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
